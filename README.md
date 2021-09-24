@@ -8,7 +8,7 @@
 -
 ### 🔭 Interested in ...
 -- Deep Learning and its Application <br>
--- Andriod App Development
+-- Andriod App Development<br>
 -- Manga, Anime, Clash Royale <br>
 -
 <!--
