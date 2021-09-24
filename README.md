@@ -1,5 +1,21 @@
-### Hi there 👋
+## Hi there, I am lightdarkx 👋
 
+
+### 🌱 I’m currently learning ...
+-- Reinforcement Learning <br>
+-- Python <br>
+-- Kotlin <br>
+-
+### 🔭 Interested in ...
+-- Deep Learning and its Application <br>
+-- Andriod App Development
+-- Manga, Anime, Clash Royale <br>
+-
+<!--
+### 📫 Connect with me ...
+
+
+--> 
 <!--
 **lightdarkx/lightdarkx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
