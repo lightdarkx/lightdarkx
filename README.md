@@ -1,16 +1,20 @@
-## Hi there, I am lightdarkx 👋
+### Hi there, I am lightdarkx 👋
 
 
-### 🌱 I’m currently learning ...
--- Reinforcement Learning <br>
--- Python <br>
--- Kotlin <br>
--
-### 🔭 Interested in ...
--- Deep Learning and its Application <br>
--- Andriod App Development<br>
--- Manga, Anime, Clash Royale <br>
--
+#### 🌱 I’m currently learning ...
+- Deep Learning <br>
+- Machine Learning <br>
+- Reinforcement Learning <br>
+
+#### 📖 Languages known ...
+- Python <br>
+- C++ <br>
+- Javascript <br>
+
+#### 🔭 Interested in ...
+- AI and its Application <br>
+- Learning Algorithms <br>
+
 <!--
 ### 📫 Connect with me ...
 
