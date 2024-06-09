@@ -2,16 +2,20 @@
 
 
 #### 🌱 I’m currently learning ...
-- Deep Learning <br>
+- Frontend Webdevelopment <br>
 - Machine Learning <br>
+- Deep Learning <br>
 - Reinforcement Learning <br>
 
 #### 📖 Languages known ...
-- Python <br>
+- C <br>
 - C++ <br>
 - Javascript <br>
+- Typescript <br>
+- PHP
 
 #### 🔭 Interested in ...
+- Making Fast and User First websites
 - AI and its Application <br>
 - Learning Algorithms <br>
 
